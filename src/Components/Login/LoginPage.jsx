@@ -36,6 +36,7 @@ const LoginPage = () => {
               SUBMIT
             </button>
           </div>
+          
         </form>
       </div>
     </div>
