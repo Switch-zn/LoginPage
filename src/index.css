@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Boss{
+    background-image: url(../src/assets/Web\ Backgrounds.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
